@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: verdana, Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  margin: 33px;
+  line-height: 18px;
+}
+
+h1 , h2 {
+  margin: 18px 0;
+}
+
+td {
+ padding: 1px 5px 7px 5px;
+}
+
+#notice {
+  margin: 33px;
+  color : green;
+}
+
+.item {
+  margin-bottom: 10px;
+}
+
+.content {
+  margin: 0 0 33px 33px;
+}
